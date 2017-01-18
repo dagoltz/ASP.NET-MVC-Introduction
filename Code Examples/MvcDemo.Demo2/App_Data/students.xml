@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>1</Id>
+    <Name>Rebecca Farley</Name>
+    <Phone>(383) 716-7788</Phone>
+    <Address>Huntington, New York</Address>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Name>Daniel Roy</Name>
+    <Phone>(532) 949-9790</Phone>
+    <Address>New York, New York</Address>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <Name>Sam Newton</Name>
+    <Phone>(100) 146-8661</Phone>
+    <Address>Orlando, Florida</Address>
+  </Student>
+  <Student>
+    <Id>4</Id>
+    <Name>Nikolai Nunez</Name>
+    <Phone>(520) 848-2857</Phone>
+    <Address>Birmingham, Alabama</Address>
+  </Student>
+  <Student>
+    <Id>5</Id>
+    <Name>Mattie Myers</Name>
+    <Phone>(983) 869-3959</Phone>
+    <Address>St. Petersburg, Florida</Address>
+  </Student>
+  <Student>
+    <Id>6</Id>
+    <Name>Desirae Wolf</Name>
+    <Phone>(188) 282-7874</Phone>
+    <Address>Fort Wayne, Indiana</Address>
+  </Student>
+  <Student>
+    <Id>7</Id>
+    <Name>Leah Hebert</Name>
+    <Phone>(785) 362-6579</Phone>
+    <Address>North Hempstead, New York</Address>
+  </Student>
+  <Student>
+    <Id>8</Id>
+    <Name>Camryn Oneill</Name>
+    <Phone>(740) 863-1853</Phone>
+    <Address>Charlotte, North Carolina</Address>
+  </Student>
+  <Student>
+    <Id>9</Id>
+    <Name>Morgan Warren</Name>
+    <Phone>(249) 633-4286</Phone>
+    <Address>Chesapeake, Virginia</Address>
+  </Student>
+</ArrayOfStudent>
